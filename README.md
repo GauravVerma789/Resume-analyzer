@@ -50,7 +50,7 @@ ai-resume-analyzer/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone GauravVerma789/Resume-analyzer
 cd ai-resume-analyzer
 ```
 
@@ -110,6 +110,3 @@ Open the local URL printed by Vite, usually `http://localhost:5173`.
 
 Core MVP implemented and manually tested.
 
-## License
-
-Add a license if you intend to distribute the project as open source.
